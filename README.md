@@ -46,8 +46,8 @@ The system allows users to upload PCB images, automatically detect defects, visu
 ## 🔗 Project Links
 
 - **GitHub Repository:** [VisionInspectAI](https://github.com/gracelipika19/VisionInspectAI)
-- **Live Demo:** To be added
-- **Backend API:** To be added
+- **Live Demo:** https://visioninspect-frontend-gta6.onrender.com
+- **Backend API:**  https://visioninspectai-rtft.onrender.com
 
 ---
 
