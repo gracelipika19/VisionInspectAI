@@ -21,7 +21,7 @@ class PCBDefectDetector:
     def predict(self, image_path: str):
         results = self.model.predict(
             source=image_path,
-            imgsz=640,
+            imgsz=512,
             conf=CONFIDENCE_THRESHOLD,
             device="cpu",
             verbose=False,
