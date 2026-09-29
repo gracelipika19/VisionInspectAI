@@ -1,0 +1,40 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Frontend
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Dataset files
+dataset/
+*.zip
+
+# Development files
+.git/
+.github/
+.vscode/
+
+# Temporary uploads
+backend/uploads/
+
+# Local database
+visioninspect.db
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
